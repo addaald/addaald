@@ -18,12 +18,31 @@ Currently working on [Timecraft](https://t.me/timecraftapp) — a task-manager w
 - Decentralized Technologies at the Service of Civil Society — [Habr](https://habr.com/ru/articles/839032/), [YouTube](https://youtu.be/46tLmkxd_dE?si=wlnXCriwQ14KXVR8), 2024
 - [Raspberry and Telegram: Prerequisites for Creating a Smart Home](https://habr.com/ru/articles/249265/) — Habr, translation to Russian, 2015
 
+## Other Skills
+
+- Figma UX/UX cross-platform design & prototyping
+- Material Design, Human Interface Guidelines
+- Customer development, user researches & interviews
+- Market & competition research
+- Agile-oriented, familiar with Asana, Jira, Trello
+- Adobe Creative Suite (Illustrator, Photoshop, Lightroom, Premiere)
+- Blender (basic skills)
+- Photography & short videos (NIKON D300S, Google Pixel, etc)
+- Guidelines & branding
+- Digital & print design
+
+
+
+
+
+
+
 ## Contacts
 
 - GitHub — [@addaald](https://github.com/addaald)
 - Telegram — [@addaald](https://t.me/addaald)
 - LinkedIn — [@addaald](https://linkedin.com/in/addaald)
-- Instagram — [@addaald](https://instagram.com/addaald)
 - Behance — [@addaald](https://behance.net/addaald)
+- Instagram — [@addaald](https://instagram.com/addaald)
 - Mail — addaaldstudio@gmail.com
 
