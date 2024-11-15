@@ -1,7 +1,6 @@
-<p>
-  Hi there, I'm Adda Ald, UI/UX & Product Designer.<br>
-  Currently working on [Timecraft](https://t.me/timecraftapp) — a task-manager with gamification.
-</p>
+Hi there, I'm Adda Ald, UI/UX & Product Designer.  
+Currently working on [Timecraft](https://t.me/timecraftapp) — a task-manager with gamification.
+
 
 ---
 
